@@ -116,28 +116,6 @@ When I'm not training neural networks, I'm grinding **DSA in C++** for FAANG pre
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshi&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
----
-
-## 🗺️ Learning Roadmap
-
-```
-2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▶ 2025
-
-[✅] Python Mastery          [✅] NumPy & Pandas         [✅] Scikit-Learn
-[✅] SQL & Databases         [✅] DSA (Arrays, Strings)  [✅] Unsupervised Learning
-[🔄] PyTorch Deep Dive       [🔄] CNNs & Transfer Learn  [🔄] FAANG DSA Prep
-[⏳] Transformers & Attention [⏳] NLP Projects           [⏳] MLOps & Deployment
-[⏳] Kaggle Competitions     [⏳] Research Papers         [⏳] ML Engineer Role @ Tier-1
-```
-
----
-
 ## 💡 Fun Facts About Me
 
 - 🧠 I'm fascinated by the **psychology of persuasion** — understanding how minds work helps me think about AI differently
