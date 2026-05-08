@@ -104,10 +104,6 @@ When I'm not training neural networks, I'm grinding **DSA in C++** for FAANG pre
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joshi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
