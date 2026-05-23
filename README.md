@@ -21,9 +21,9 @@ class Joshi:
     def __init__(self):
         self.name         = "Joshi"
         self.role         = "Aspiring ML Engineer"
-        self.education    = "BTech CSE (Final Year)"
+        self.education    = "BTech CSE (III Year)"
         self.location     = "Jaipur, Rajasthan 🇮🇳"
-        self.languages    = ["Python", "C++", "SQL"]
+        self.languages    = ["Python", "C++", "Java"]
         self.interests    = ["Machine Learning", "Deep Learning",
                              "Psychology", "Persuasion & Communication"]
         self.goal         = "Crack FAANG & build intelligent systems"
