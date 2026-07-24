@@ -6,9 +6,8 @@
 <br/>
 
 <!-- Profile Views & Followers Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=devansh232406&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/joshi?style=for-the-badge&color=0891b2&labelColor=1c1917)
+![Profile Views](https://komarev.com/ghpvc/?username=Devansh232406&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Devansh232406?style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 </div>
 
