@@ -110,14 +110,13 @@ When I'm not training neural networks, I'm grinding **DSA in C++** for FAANG pre
 </div>
 
 ---
-
 ## 💡 Fun Facts About Me
 
-- 🧠 I'm fascinated by the **psychology of persuasion** — understanding how minds work helps me think about AI differently
-- 📖 I believe in **brute force first** — understand the naive solution deeply before optimizing
-- 🎯 I'm obsessed with **first-principles thinking** — I don't just learn *how*, I learn *why*
-- 💬 I study **body language & communication** because great engineers also need to be great communicators
-- ☕ My debugging sessions are fueled by curiosity, not coffee
+- 👁️ **Pixel-to-latent obsessed** — fascinated by how Computer Vision models see and structure the physical world
+- 🧠 **LLM Architecture Enthusiast** — passionate about attention mechanisms, prompt alignment, and transformer scalability
+- 🎯 **First-principles thinker** — I don't just learn *how* an algorithm works, I decompose *why* it works from scratch
+- ⚡ **Brute force first** — always master the naive baseline before engineering the optimal solution
+- 💬 **Communication matters** — I believe the best technical ideas are the ones communicated with absolute clarity
 
 ---
 
