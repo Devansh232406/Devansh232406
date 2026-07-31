@@ -87,7 +87,15 @@ When I'm not training neural networks, I'm grinding **DSA in C++** for FAANG pre
 | **Data Wrangling** | Pandas, NumPy, Feature Engineering, EDA | ████████░░ 80% |
 
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Devansh232406&theme=tokyonight)](https://git.io/streak-stats)
+---
+![Devansh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devansh232406&theme=tokyonight&hide_border=true)
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devansh232406&show_icons=true&theme=tokyonight&rank_icon=github" alt="Devansh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh232406&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+---
 ## 🏆 Achievements & Milestones
 
 - 🎯 **Completed structured PyTorch curriculum** — Tensors → CNNs → Transfer Learning roadmap
