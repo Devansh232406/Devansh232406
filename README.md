@@ -80,7 +80,7 @@ When I'm not training neural networks, I'm grinding **DSA in C++** for FAANG pre
 | Domain | Topics Covered | Proficiency |
 |--------|---------------|-------------|
 | **Supervised Learning** | Linear/Logistic Regression, SVMs, Decision Trees, Random Forests, Ensemble Methods | ████████░░ 80% |
-| **Unsupervised Learning** | K-Means, GMMs, DBSCAN, Hierarchical Clustering, PCA | ███████░░░ 70% |
+| **Unsupervised Learning** | K-Means, GMMs, DBSCAN, Hierarchical Clustering, PCA | ████████░░ 80% |
 | **Deep Learning** | ANNs, CNNs, Backpropagation, Activation Functions | ██████░░░░ 60% |
 | **PyTorch** | Tensors, Autograd, Custom Datasets, DataLoaders, Training Loops | ███████░░░ 65% |
 | **NLP Fundamentals** | Text preprocessing, KMP, Rabin-Karp, Z-Algorithm, String Matching | ███████░░░ 70% |
@@ -96,18 +96,6 @@ When I'm not training neural networks, I'm grinding **DSA in C++** for FAANG pre
 - 🔍 **Advanced SQL** — Stored Procedures, Triggers, complex query optimization
 - 🧬 **Full ML Pipeline Understanding** — From raw data preprocessing to model deployment concepts
 - 🤝 **Strong CS Foundations** — Computer Architecture, Pipelining, Flynn's Taxonomy, RISC vs CISC, Formal Languages & Automata
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joshi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
 
 ---
 ## 💡 Fun Facts About Me
