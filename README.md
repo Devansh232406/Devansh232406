@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About 
 
 ```python
 class Joshi:
