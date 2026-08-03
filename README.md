@@ -34,7 +34,7 @@ me = Joshi()
 me.say_hi()
 ```
 
-I'm a passionate **Machine Learning enthusiast** and **BTech CSE student** who lives and breathes data, models, and algorithms. My mission is to master ML/DL from the ground up — from tensors to transformers — and land a role where I can push the boundaries of what AI can do.
+I'm a aspiring **Machine Learning Engineer** and **BTech CSE student** who lives and breathes data, models, and algorithms. My mission is to master ML/DL from the ground up — from tensors to transformers — and land a role where I can push the boundaries of what AI can do.
 
 When I'm not training neural networks, I'm grinding **DSA in C++** for FAANG prep, exploring **human psychology**, or figuring out the science behind great communication and persuasion.
 
