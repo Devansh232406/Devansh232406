@@ -24,7 +24,7 @@ class Joshi:
         self.location     = "Jaipur, Rajasthan 🇮🇳"
         self.languages    = ["Python", "C++", "Java"]
         self.interests    = ["Machine Learning", "Deep Learning",
-                             "Psychology", "Persuasion & Communication"]
+                             "Psychology", "Communication"]
         self.goal         = "Crack FAANG & build intelligent systems"
 
     def say_hi(self):
