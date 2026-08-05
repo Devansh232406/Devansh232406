@@ -87,7 +87,11 @@ When I'm not training neural networks, I'm grinding **DSA in C++** for FAANG pre
 | **Data Wrangling** | Pandas, NumPy, Feature Engineering, EDA | ████████░░ 80% |
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Devansh232406&theme=tokyonight)](https://git.io/streak-stats)
+🔥 GitHub Commit Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Devansh232406&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 ![Devansh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devansh232406&theme=tokyonight&hide_border=true)
 ---
