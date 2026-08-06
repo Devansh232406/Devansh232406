@@ -25,14 +25,8 @@
 <rect x="40" y="70" width="560" height="350" rx="15" fill="#0F172A" stroke="#334155"/>
 <text x="60" y="95" fill="#94A3B8" font-size="18" font-family="monospace">PORTRAIT / DEVANSH</text>
 
-<image
-    x="120"
-    y="110"
-    width="360"
-    height="290"
-    preserveAspectRatio="xMidYMid meet"
-    href="https://github.com/Devansh232406/Devansh232406/blob/main/assets/profile.png"/>
-  
+<image x="120" y="110" width="360" height="290" preserveAspectRatio="xMidYMid slice" href="profile.png" />
+    
 <rect x="620" y="70" width="740" height="350" rx="15" fill="#111827" stroke="#334155"/>
 <text x="640" y="100" fill="#E2E8F0" font-size="18" font-family="monospace">AI • ML • LLM • CV • NLP</text>
 <text x="640" y="135" fill="#FFFFFF" font-size="18" font-family="monospace">Devansh232406</text>
