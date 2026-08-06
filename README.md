@@ -146,9 +146,9 @@
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shlok0603&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devansh232406&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shlok0603&theme=tokyonight&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Devansh232406&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
 
