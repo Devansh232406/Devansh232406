@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 About 
+## 🧠 About Me
 
 ```python
 class Joshi:
@@ -24,7 +24,7 @@ class Joshi:
         self.location     = "Jaipur, Rajasthan 🇮🇳"
         self.languages    = ["Python", "C++", "Java"]
         self.interests    = ["Machine Learning", "Deep Learning",
-                             "Psychology", "Communication"]
+                              "Psychology", "Communication"]
         self.goal         = "Crack FAANG & build intelligent systems"
 
     def say_hi(self):
@@ -34,7 +34,7 @@ me = Joshi()
 me.say_hi()
 ```
 
-I'm a aspiring **Machine Learning Engineer** and **BTech CSE student** who lives and breathes data, models, and algorithms. My mission is to master ML/DL from the ground up — from tensors to transformers — and land a role where I can push the boundaries of what AI can do.
+I'm an aspiring **Machine Learning Engineer** and **BTech CSE student** who lives and breathes data, models, and algorithms. My mission is to master ML/DL from the ground up — from tensors to transformers — and land a role where I can push the boundaries of what AI can do.
 
 When I'm not training neural networks, I'm grinding **DSA in C++** for FAANG prep, exploring **human psychology**, or figuring out the science behind great communication and persuasion.
 
@@ -87,19 +87,36 @@ When I'm not training neural networks, I'm grinding **DSA in C++** for FAANG pre
 | **Data Wrangling** | Pandas, NumPy, Feature Engineering, EDA | ████████░░ 80% |
 
 ---
-🔥 GitHub Commit Streak
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devansh232406/Devansh232406/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devansh232406/Devansh232406/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Devansh232406/Devansh232406/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Devansh232406&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
----
-![Devansh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devansh232406&theme=tokyonight&hide_border=true)
----
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh232406&theme=tokyonight&hide_border=true" alt="Devansh's GitHub Activity Graph" />
+</p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devansh232406&show_icons=true&theme=tokyonight&rank_icon=github" alt="Devansh's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh232406&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
+
 ---
+
 ## 🏆 Achievements & Milestones
 
 - 🎯 **Completed structured PyTorch curriculum** — Tensors → CNNs → Transfer Learning roadmap
@@ -110,6 +127,7 @@ When I'm not training neural networks, I'm grinding **DSA in C++** for FAANG pre
 - 🤝 **Strong CS Foundations** — Computer Architecture, Pipelining, Flynn's Taxonomy, RISC vs CISC, Formal Languages & Automata
 
 ---
+
 ## 💡 Fun Facts About Me
 
 - 👁️ **Pixel-to-latent obsessed** — fascinated by how Computer Vision models see and structure the physical world
