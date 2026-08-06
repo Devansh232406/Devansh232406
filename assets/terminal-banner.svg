@@ -38,6 +38,8 @@ href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABgAAAAQACAMAAAAQr2JwAAAC2VBM
 <text x="790" y="200" fill="#FFFFFF" font-size="15" font-family="monospace">AI Engineer</text>
 <text x="650" y="230" fill="#60A5FA" font-size="15" font-family="monospace">Education</text>
 <text x="790" y="230" fill="#FFFFFF" font-size="15" font-family="monospace">B.Tech IT • SKIT Jaipur</text>
+<text x="650" y="260" fill="#60A5FA" font-size="15" font-family="monospace">Current</text>
+<text x="790" y="260" fill="#FFFFFF" font-size="15" font-family="monospace">AI Intern @ BigHaat</text>  
 <text x="650" y="305" fill="#94A3B8" font-size="16" font-family="monospace">BUILD.FOCUS</text>
 <line x1="650" y1="315" x2="1320" y2="315" stroke="#475569" stroke-dasharray="6"/>
 <text x="660" y="345" fill="#FFFFFF" font-size="15" font-family="monospace">• Deep Learning</text>
