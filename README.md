@@ -29,7 +29,6 @@
 <img src="https://img.shields.io/badge/RAG-0EA5E9?style=flat-square"/>
 <img src="https://img.shields.io/badge/Agentic%20AI-9333EA?style=flat-square"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
 </p>
 
 ---
