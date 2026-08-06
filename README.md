@@ -1,160 +1,340 @@
+<p align="center">
+  <img src="assets/terminal-banner.svg" width="100%">
+</p>
+
+
+<p align="center">
+<a href="https://github.com/Devansh232406">
+<img src="https://komarev.com/ghpvc/?username=Devansh232406&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Devansh232406?tab=followers">
+<img src="https://img.shields.io/github/followers/shlok0603?logo=github&style=for-the-badge&color=0EA5E9&label=FOLLOWERS"/>
+</a>
+
+<a href="https://github.com/Devansh232406">
+<img src="https://img.shields.io/github/stars/shlok0603?affiliations=OWNER&style=for-the-badge&logo=github&color=FACC15&label=STARS"/>
+</a>
+
+<a href="https://github.com/Devansh232406">
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
+</p>
+
+---
+
+# 🏅 Experience
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Devansh+Joshi+%F0%9F%91%8B;ML+Engineer+in+the+Making+%F0%9F%A7%A0;Deep+Learning+Enthusiast+%F0%9F%94%A5;BTech+CSE+%7C+FAANG+Aspirant+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<!-- Profile Views & Followers Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Devansh232406&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Devansh232406?style=for-the-badge&color=0891b2&labelColor=1c1917)
+| 💼 Role | 🏢 Organization | 📅 Duration |
+|---------|-----------------|------------|
+| 🤖 ML Intern | **ModerTechLap** | May 2026 – Jun 2026 |
+| 📊 Summer Intern | **Kistechnosoftware** | Jun 2025 – Jul 2025 |
 
 </div>
 
 ---
 
-## 🧠 About Me
+# Tech Stack
 
-```python
-class Joshi:
-    def __init__(self):
-        self.name         = "Devansh Joshi"
-        self.role         = "Aspiring ML Engineer"
-        self.education    = "BTech CSE (III Year)"
-        self.location     = "Jaipur, Rajasthan 🇮🇳"
-        self.languages    = ["Python", "C++", "Java"]
-        self.interests    = ["Machine Learning", "Deep Learning",
-                              "Psychology", "Communication"]
-        self.goal         = "Crack FAANG & build intelligent systems"
+## Programming Languages
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,mysql,c" />
+</p>
 
-me = Joshi()
-me.say_hi()
+---
+
+## Artificial Intelligence & Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/SentenceTransformers-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge"/>
+</p>
+
+---
+
+## Agentic AI & LLMs
+
+<p align="left">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qwen-7A3FF2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0088CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Embeddings-6A5ACD?style=for-the-badge"/>
+</p>
+
+---
+
+## Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker" />
+</p>
+
+---
+
+## Databases & Vector Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+<img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+</p>
+
+---
+
+## Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh232406&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh2324063&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+# GitHub Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devansh232406&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devansh232406&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Devansh232406&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shlok0603&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shlok0603&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+# Current Focus
+
+```text
+Learning        : NLP • GenAI • LLMs
+
+Working On      : Real World AI Applications
+
+Ask Me About    : Python • Machine Learning • Deep Learning
+                     Generative AI • RAG • LangChain
+                     FastAPI • LLMs • Computer Vision
+
+Goal 2026       : ML Internship @ Top Product Company
 ```
 
-I'm an aspiring **Machine Learning Engineer** and **BTech CSE student** who lives and breathes data, models, and algorithms. My mission is to master ML/DL from the ground up — from tensors to transformers — and land a role where I can push the boundaries of what AI can do.
+---
+# 🚀 Featured Projects
 
-When I'm not training neural networks, I'm grinding **DSA in C++** for FAANG prep, exploring **human psychology**, or figuring out the science behind great communication and persuasion.
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🎬 Movie Recommendation System
+
+<p align="center">
+<img
+src="https://raw.githubusercontent.com/Devansh232406/Devansh232406/main/assets/movie-recommendation.png"
+width="80%">
+</p>
+
+### 🎥 Neural Collaborative Filtering
+
+A Deep Learning recommendation engine trained on the MovieLens 100K dataset to predict personalized movie ratings.
+
+### ✨ Features
+
+✅ Neural Collaborative Filtering (NCF)
+
+✅ User & Movie Embeddings
+
+✅ Personalized Recommendations
+
+✅ TensorFlow / Keras
+
+✅ MovieLens 100K Dataset
+
+### ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MAE-0.75-success?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Devansh232406/movie-recommendation-system-deep-learning">
+
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+## 🧬 AI Microscope
+
+<p align="center">
+<img
+src="https://raw.githubusercontent.com/Devansh232406/Devansh232406/main/assets/malaria.png"
+width="75%">
+</p>
+
+### 🔬 Malaria Cell Classification
+
+CNN-based computer vision model for detecting parasitized and uninfected blood smear images.
+
+### ✨ Features
+
+✅ CNN Classification
+
+✅ PyTorch
+
+✅ Data Augmentation
+
+✅ High Precision
+
+✅ Binary Classification
+
+### ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Accuracy-97%25-success?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Devansh232406">
+
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/devansh-joshi-a9a893322/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+<a href="https://github.com/Devansh232406">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:devansh23fs@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 🔥 What I'm Currently Working On
-
-- 🤖 **Deep Learning Curriculum** — Working through CNNs, Transfer Learning & beyond with PyTorch
-- 📖 **Hands-On ML** — *Scikit-Learn, Keras & TensorFlow* (3rd Ed.) — Chapter by Chapter
-- ⚔️ **DSA Mastery in C++** — Two Pointers · Sliding Window · String Algorithms · Dynamic Programming
-- 🧪 **Clustering & Unsupervised Learning** — K-Means, GMMs, DBSCAN
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 🤖 Machine Learning & Deep Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-### 💻 Programming & DSA
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 🧪 ML Knowledge Domains
-
-| Domain | Topics Covered | Proficiency |
-|--------|---------------|-------------|
-| **Supervised Learning** | Linear/Logistic Regression, SVMs, Decision Trees, Random Forests, Ensemble Methods | ████████░░ 80% |
-| **Unsupervised Learning** | K-Means, GMMs, DBSCAN, Hierarchical Clustering, PCA | ████████░░ 80% |
-| **Deep Learning** | ANNs, CNNs, Backpropagation, Activation Functions | ██████░░░░ 60% |
-| **PyTorch** | Tensors, Autograd, Custom Datasets, DataLoaders, Training Loops | ███████░░░ 65% |
-| **NLP Fundamentals** | Text preprocessing, KMP, Rabin-Karp, Z-Algorithm, String Matching | ███████░░░ 70% |
-| **Data Wrangling** | Pandas, NumPy, Feature Engineering, EDA | ████████░░ 80% |
-
----
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devansh232406/Devansh232406/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devansh232406/Devansh232406/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Devansh232406/Devansh232406/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Devansh232406/Devansh232406/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 💬 Quote of the Day
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Devansh232406&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh232406&theme=tokyonight&hide_border=true" alt="Devansh's GitHub Activity Graph" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=120&section=footer"/>
+
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devansh232406&show_icons=true&theme=tokyonight&rank_icon=github" alt="Devansh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh232406&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 Achievements & Milestones
-
-- 🎯 **Completed structured PyTorch curriculum** — Tensors → CNNs → Transfer Learning roadmap
-- 📚 **Mastered Hands-On ML (Ch. 9)** — Clustering algorithms (K-Means, GMMs, DBSCAN) with deep mathematical intuition
-- ⚡ **DSA Patterns Conquered** — Two Pointers (incl. 3Sum, 4Sum, Cycle Detection), Sliding Window, KMP, Rabin-Karp, Z-Algorithm
-- 🔍 **Advanced SQL** — Stored Procedures, Triggers, complex query optimization
-- 🧬 **Full ML Pipeline Understanding** — From raw data preprocessing to model deployment concepts
-- 🤝 **Strong CS Foundations** — Computer Architecture, Pipelining, Flynn's Taxonomy, RISC vs CISC, Formal Languages & Automata
-
----
-
-## 💡 Fun Facts About Me
-
-- 👁️ **Pixel-to-latent obsessed** — fascinated by how Computer Vision models see and structure the physical world
-- 🧠 **LLM Architecture Enthusiast** — passionate about attention mechanisms, prompt alignment, and transformer scalability
-- 🎯 **First-principles thinker** — I don't just learn *how* an algorithm works, I decompose *why* it works from scratch
-- ⚡ **Brute force first** — always master the naive baseline before engineering the optimal solution
-- 💬 **Communication matters** — I believe the best technical ideas are the ones communicated with absolute clarity
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-joshi-a9a893322/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh23fs@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devansh232406)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/devanshjoshi23)
-
-</div>
-
----
-
-<div align="center">
-
-*"The best model is the one that learns from its mistakes — and so do I."*
-
-⭐️ **If you find my work interesting, drop a star!** ⭐️
-
-</div>
