@@ -182,7 +182,7 @@ Goal 2026       : ML Internship @ Top Product Company
 
 <p align="center">
 <img
-src="https://raw.githubusercontent.com/Devansh232406/Devansh232406/main/assets/movie-recommendation.png"
+src="https://raw.githubusercontent.com/Devansh232406/Devansh232406/main/assets/CineAI.png"
 width="80%">
 </p>
 
